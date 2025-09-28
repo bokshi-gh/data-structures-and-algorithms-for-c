@@ -1,1 +1,1 @@
-# data-structure-and-algorithm-for-c
+# data-structures-and-algorithms-for-c
